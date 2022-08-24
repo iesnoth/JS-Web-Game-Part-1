@@ -42,5 +42,3 @@ newItem('assets/staff.png',600,100)
 // {
 
 // }
-
-console.log(window.innerWidth)
